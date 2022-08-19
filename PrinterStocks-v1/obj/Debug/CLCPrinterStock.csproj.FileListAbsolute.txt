@@ -1,0 +1,43 @@
+c:\users\justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\bin\Debug\CLCPrinterStock.exe.config
+c:\users\justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\bin\Debug\CLCPrinterStock.exe
+c:\users\justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\bin\Debug\CLCPrinterStock.pdb
+c:\users\justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\obj\Debug\CLCPrinterStock.csprojResolveAssemblyReference.cache
+c:\users\justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\obj\Debug\CLCPrinterStock.Form1.resources
+c:\users\justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\obj\Debug\CLCPrinterStock.Properties.Resources.resources
+c:\users\justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\obj\Debug\CLCPrinterStock.csproj.GenerateResource.Cache
+c:\users\justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\obj\Debug\CLCPrinterStock.exe
+c:\users\justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\obj\Debug\CLCPrinterStock.pdb
+c:\users\justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\bin\Debug\HtmlAgilityPack.dll
+c:\users\justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\bin\Debug\HtmlAgilityPack.pdb
+c:\users\justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\bin\Debug\HtmlAgilityPack.xml
+c:\users\justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\bin\Debug\EASendMail.dll
+C:\Users\Justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\bin\Debug\SendGrid.dll
+C:\Users\Justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\bin\Debug\StarkbankEcdsa.dll
+C:\Users\Justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\bin\Debug\SendGrid.pdb
+C:\Users\Justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\bin\Debug\SendGrid.xml
+C:\Users\Justin\documents\visual studio 2015\Projects\CLCPrinterStock\CLCPrinterStock\obj\Debug\CLCPrinterStock.Form2.resources
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\bin\Debug\CLCPrinterStock.exe.config
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\bin\Debug\CLCPrinterStock.exe
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\bin\Debug\CLCPrinterStock.pdb
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\bin\Debug\EASendMail.dll
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\bin\Debug\SendGrid.dll
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\bin\Debug\StarkbankEcdsa.dll
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\bin\Debug\SendGrid.pdb
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\bin\Debug\SendGrid.xml
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\obj\Debug\CLCPrinterStock.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\obj\Debug\CLCPrinterStock.Form1.resources
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\obj\Debug\CLCPrinterStock.Form2.resources
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\obj\Debug\CLCPrinterStock.Properties.Resources.resources
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\obj\Debug\CLCPrinterStock.csproj.GenerateResource.Cache
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\obj\Debug\CLCPrinterStock.exe
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\CLCPrinterStock -v2\CLCPrinterStock\obj\Debug\CLCPrinterStock.pdb
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\PrinterStocks-v1\CLCPrinterStock\bin\Debug\CLCPrinterStock.exe.config
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\PrinterStocks-v1\CLCPrinterStock\obj\Debug\CLCPrinterStock.exe
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\PrinterStocks-v1\CLCPrinterStock\obj\Debug\CLCPrinterStock.pdb

@@ -1,0 +1,11 @@
+Send Email=False
+Play Sound=False
+Auto Refresh=True
+Log Essentials=True
+CC Emails=
+Recipient Emails=justin.tonkinson96@gmail.com
+Printer Websites=http://clcseciprn.utep.edu,http://clcseciiprn.utep.edu,http://clcseciiiprn.utep.edu,http://clcsecivprn.utep.edu,http://clcseciv2prn.utep.edu
+Paper Tray Condition=Low
+Black Cartridge Condition=0
+Refresh Rate=1
+Notification Frequency=30
